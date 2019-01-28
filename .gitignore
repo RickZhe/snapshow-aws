@@ -1,3 +1,7 @@
+Pipfile.lock
+*.pem
+api_access.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
