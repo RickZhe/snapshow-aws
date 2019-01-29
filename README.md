@@ -14,5 +14,6 @@ snapshow uses the configure file creates by AWS cli
 ## Running
 `pipenv run python "snapshow/snapshow.py <command> <--project=PROJECT>"`
 
-*command* is list, start, or stop
+*command* is instances, volumes, or snapshots
+*subcommand* - depends on command
 *project* is tag from AWS.
