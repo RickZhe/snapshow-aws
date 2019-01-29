@@ -1,6 +1,7 @@
 Pipfile.lock
 *.pem
 api_access.csv
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
