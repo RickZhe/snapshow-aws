@@ -10,7 +10,7 @@ setup(
     packages=['snapshow'],
     url="https://github.com/RickZhe/snapshow-aws",
     install_requires=[
-        'click'
+        'click',
         'boto3'
     ],
     entry_points='''
